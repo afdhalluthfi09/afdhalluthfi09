@@ -2,7 +2,7 @@
 <a href="https://twitter.com/sambel_hard">
   <img align="left" alt="afdhalluthfi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/afdhalluthfi">
+<a href="https://facebook.com/afdhalluthfi">
   <img align="left" alt="afdhalluthfi | Facbook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/otizen09/">
