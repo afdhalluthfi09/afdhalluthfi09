@@ -2,8 +2,6 @@
 <a href="https://twitter.com/sambel_hard">
   <img align="left" alt="afdhalluthfi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://facebook.com/afdhalluthfi">
-  <img align="left" alt="afdhalluthfi | Facbook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/otizen09/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
