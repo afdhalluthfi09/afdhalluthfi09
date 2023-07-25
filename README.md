@@ -1,9 +1,9 @@
 ### HI I'M Afdhal Luthfi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/sambel_hard">
-  <img align="left" alt="afdhalluthfi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsambel_hard&style=social&logo=twitter&logoColor=%237C73C0&label=sambel_hard&color=%237C73C0">
 </a>
 </a>
-<a href="https://www.instagram.com/otizen09/">
+<a href="https://www.instagram.com/afdhal.luthfie/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
 <br />
@@ -33,6 +33,15 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=laravellogin&theme=shades-of-purple)](https://github.com/afdhalluthfi/laravellogin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-app-kurir-laundry&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-app-kurir-laundry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=peta-qgis-indonsesia&theme=shades-of-purple)](https://github.com/afdhalluthfi09/peta-qgis-indonsesia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-sop&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-sop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-kelas-arabic&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-kelas-arabic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=kelas-pemograman-kid&theme=shades-of-purple)](https://github.com/afdhalluthfi09/kelas-pemograman-kid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=sekolahskill-slicing&theme=shades-of-purple)](https://github.com/afdhalluthfi09/sekolahskill-slicing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=elaundr-client&theme=shades-of-purple)](https://github.com/afdhalluthfi09/elaundr-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=driver-laundry-app&theme=shades-of-purple)](https://github.com/afdhalluthfi09/driver-laundry-app)
+
 <table>
 <tr>
 <td><a href="https://github.com/afdhalluthfi/laravellogin">
