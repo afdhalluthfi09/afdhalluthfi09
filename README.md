@@ -11,12 +11,12 @@
 <table>
 <tr>
 <td>
-<ul>
-        <li> 👋 Hi, I’m @afdhalluthfi</li>
-        <li> 👀 I’m interested in programming</li>
-        <li> 🔗 welcome in my website liniencode.com</li>
-        <li> 💞️ I’m looking to collaborate on</li>
-    </ul>
+**Fullstack Web Developer based in Indonesia 🇮🇩**
+
+- **Main Stack:** Laravel // Vue.js // React.js
+- **Focus:** Building a robust LMS Platform 🎓
+- **Offline Mode:** 🎮 Gamer | ☕ Coffee Addict | 🥘 Culinary Hunter
+- **Contact:** afdhalluthfibinsarbaini@gmail.com
 </td>
 <td>
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" />
