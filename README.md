@@ -20,23 +20,12 @@
 </table>
 <br />
 <hr />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdhalluthfi&layout=compact&exclude_repo=laravellogin,dart_basic)](https://github.com/afdhalluthfi/afdhalluthfi)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi&repo=laravellogin&theme=shades-of-purple)](https://github.com/afdhalluthfi/laravellogin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-app-kurir-laundry&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-app-kurir-laundry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=peta-qgis-indonsesia&theme=shades-of-purple)](https://github.com/afdhalluthfi09/peta-qgis-indonsesia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-sop&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-sop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=slicing-kelas-arabic&theme=shades-of-purple)](https://github.com/afdhalluthfi09/slicing-kelas-arabic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=kelas-pemograman-kid&theme=shades-of-purple)](https://github.com/afdhalluthfi09/kelas-pemograman-kid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=sekolahskill-slicing&theme=shades-of-purple)](https://github.com/afdhalluthfi09/sekolahskill-slicing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=elaundr-client&theme=shades-of-purple)](https://github.com/afdhalluthfi09/elaundr-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afdhalluthfi09&repo=driver-laundry-app&theme=shades-of-purple)](https://github.com/afdhalluthfi09/driver-laundry-app)
-
+<a href="https://instagram.com/afdhal.luthfie" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/afdhal-luthfi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn" />
+</a>
 <table>
 <tr>
 <td><a href="https://github.com/afdhalluthfi/laravellogin">
