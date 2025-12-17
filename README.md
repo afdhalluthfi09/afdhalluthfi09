@@ -2,20 +2,21 @@
 ![Afdhal Luthfi](img/github-header-banner.png)
 <br />
 <hr />
-<table>
-<tr>
-<td>
-**Fullstack Web Developer based in Indonesia 🇮🇩**
-
-- **Main Stack:** Laravel // Vue.js // React.js
-- **Focus:** Building a robust LMS Platform 🎓
-- **Offline Mode:** 🎮 Gamer | ☕ Coffee Addict | 🥘 Culinary Hunter
-- **Contact:** afdhalluthfibinsarbaini@gmail.com
-</td>
-<td>
-<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" />
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Fullstack Web Developer based in Indonesia 🇮🇩</h3>
+      <ul>
+        <li><b>Main Stack:</b> Laravel // Vue.js // React.js</li>
+        <li><b>Focus:</b> Building a robust LMS Platform 🎓</li>
+        <li><b>Offline Mode:</b> 🎮 Gamer | ☕ Coffee Addict | 🥘 Culinary Hunter</li>
+        <li><b>Contact:</b> afdhalluthfibinsarbaini@gmail.com</li>
+      </ul>
+    </td>
+    <td width="30%" align="right" valign="top">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-width:230px;" />
+    </td>
+  </tr>
 </table>
 <br />
 <hr />
