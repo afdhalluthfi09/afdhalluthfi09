@@ -1,5 +1,5 @@
 ### I'M Afdhal Luthfi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Luthfi Intilab](img/github-header-banner.png)
+![Afdhal Luthfi](img/github-header-banner.png)
 <br />
 <hr />
 <table>
