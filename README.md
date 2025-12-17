@@ -1,11 +1,5 @@
 ### HI I'M Afdhal Luthfi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/sambel_hard">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsambel_hard&style=social&logo=twitter&logoColor=%237C73C0&label=sambel_hard&color=%237C73C0">
-</a>
-</a>
-<a href="https://www.instagram.com/afdhal.luthfie/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-</a>
+![Luthfi Intilab](img/github-header-banner.png)
 <br />
 <hr />
 <table>
